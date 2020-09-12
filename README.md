@@ -6,6 +6,8 @@
     - Install Maven
     - Install Nexus
     - Install Jenkins
+# Install Nexus
+  [] https://github.com/cloudtechmasters/nexus-installation-linux
 # Add Plugins to jenkins
     - Nexus Artifact Uploader
     - Pipeline Utility Steps
