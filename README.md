@@ -1,4 +1,4 @@
-# upload-artifacts-nexus-JenkinsCICD
+# upload artifacts to nexus repository using Jenkins CICD
 
 # Pre-Requisites:
     - Install Java
@@ -7,7 +7,7 @@
     - Install Nexus
     - Install Jenkins
 # Install Nexus
-  [Nexus Installation](https://github.com/cloudtechmasters/upload-artifacts-to-nexus/blob/master/README.md)
+  [Nexus Installation](https://github.com/cloudtechmasters/nexus-installation-linux/blob/master/README.md)
 # Add Plugins to jenkins
     - Nexus Artifact Uploader
     - Pipeline Utility Steps
