@@ -7,7 +7,7 @@
     - Install Nexus
     - Install Jenkins
 # Install Nexus
-  [Nexus Installation] (https://github.com/cloudtechmasters/nexus-installation-linux)
+  [Nexus Installation](https://github.com/cloudtechmasters/upload-artifacts-to-nexus/blob/master/README.md)
 # Add Plugins to jenkins
     - Nexus Artifact Uploader
     - Pipeline Utility Steps
